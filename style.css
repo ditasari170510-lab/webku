@@ -112,13 +112,15 @@ body {
     padding: 20px;
     color: #333;
 }
- .footer-box {
-     background-color: #f5f5dc;
-     color: #333;
-     padding: 15px;
-     margin-top: 20px;
-     text-align: left;
-     border: 1px solid #ccc;
-     width: 100%;
-     box-sizing: border-box;
-        }
+.footer-box {
+    background-color: #f5f5dc;
+    color: #333;
+    padding: 15px;
+    margin-top: 20px;
+    text-align: left;         
+    border: 1px solid #ccc;
+    
+    margin-left: 20px;        
+    margin-right: 20px;       
+    border-radius: 4px;
+}
