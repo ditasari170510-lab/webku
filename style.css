@@ -115,17 +115,15 @@ body {
 }
 .footer-box {
     background-color: #417aa8; 
-    color: #333;
+    color: white;          
     padding: 15px;
     border: 1px solid #ccc;
     border-radius: 5px;
     text-align: left;
-
-    width: 90%;  
+    width: 90%;
     margin: 20px auto;
     box-sizing: border-box;
 }
-
 .wrapper-kuning {
     background-color: #fff9c4; 
     width: 90%;          
