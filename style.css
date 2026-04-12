@@ -28,8 +28,9 @@ body {
 .menu {
     background-color: #417aa8;
     width: 90%;
-    margin: 10px auto;
+    margin: 10px auto 0 auto;
     height: 50px;
+    border-radius: 8px 8px 0 0;
 }
 
 .menu ul {
@@ -126,11 +127,11 @@ body {
 }
 
 .wrapper-kuning {
-    background-color: #fff9c4; /* Pastikan ada titik koma (;) di sini */
+    background-color: #fff9c4; 
     width: 90%;          
-    margin: 20px auto;        
+    margin: 0 auto 20px auto; 
     padding: 20px 0;          
-    border-radius: 8px;       
+    border-radius: 0 0 8px 8px;
     border: 1px solid #e6e600;
 }
 
