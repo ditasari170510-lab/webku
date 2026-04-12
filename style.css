@@ -124,3 +124,17 @@ body {
     margin: 20px auto;
     box-sizing: border-box;
 }
+.wrapper-kuning {
+    background-color: #fff9c4; 
+    width: 90%;          
+    margin: 20px auto;        
+    padding: 20px 0;          
+    border-radius: 8px;       
+    border: 1px solid #e6e600;
+}
+.wrapper-kuning .container {
+    width: 95%; 
+    margin: 0 auto;
+    display: flex;
+    gap: 20px;
+}
